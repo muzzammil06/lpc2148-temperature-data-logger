@@ -184,10 +184,9 @@ Hardware Layer
 
 ## 📂 Repository Structure
 lpc2148-temperature-data-logger/
-│── src/
-│── include/
 │── docs/
-│── images/
+│── inc/
+│── src/
 │── README.md
 
 
@@ -242,7 +241,7 @@ This project highlights:
 
 ## 📸 Project Demonstration
 
-images/
+docs/
 hardware_setup.jpg
 lcd_output.jpg
 serial_output.png
